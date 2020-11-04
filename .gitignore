@@ -1,5 +1,4 @@
 # First, ignore everything
-*
 # Now, whitelist the desired file extensions
 !*.py
 !*.md
